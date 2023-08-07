@@ -506,7 +506,7 @@ const App: FunctionComponent<{}> = () => {
             </div>
           ) : (
             <>
-              <h1 style={{ color: 'white' }}>You are not Blair, Get out!</h1>
+              <h1 style={{ color: 'white' }}>Babe stop cheating! :D</h1>
             </>
           )}
         </>
