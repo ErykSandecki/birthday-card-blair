@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/birthday-card-blair/static/css/main.ddc1d9e4.chunk.css",
+    "main.js": "/birthday-card-blair/static/js/main.2578c8cb.chunk.js",
+    "main.js.map": "/birthday-card-blair/static/js/main.2578c8cb.chunk.js.map",
+    "runtime-main.js": "/birthday-card-blair/static/js/runtime-main.cd7fa8cc.js",
+    "runtime-main.js.map": "/birthday-card-blair/static/js/runtime-main.cd7fa8cc.js.map",
+    "static/js/2.184cb949.chunk.js": "/birthday-card-blair/static/js/2.184cb949.chunk.js",
+    "static/js/2.184cb949.chunk.js.map": "/birthday-card-blair/static/js/2.184cb949.chunk.js.map",
+    "index.html": "/birthday-card-blair/index.html",
+    "static/css/main.ddc1d9e4.chunk.css.map": "/birthday-card-blair/static/css/main.ddc1d9e4.chunk.css.map",
+    "static/js/2.184cb949.chunk.js.LICENSE.txt": "/birthday-card-blair/static/js/2.184cb949.chunk.js.LICENSE.txt",
+    "static/media/Balloon-Border.0f298774.png": "/birthday-card-blair/static/media/Balloon-Border.0f298774.png",
+    "static/media/airplane.35d48f49.png": "/birthday-card-blair/static/media/airplane.35d48f49.png",
+    "static/media/index.scss": "/birthday-card-blair/static/media/b7.d9bed772.png",
+    "static/media/banner.eb19c115.png": "/birthday-card-blair/static/media/banner.eb19c115.png",
+    "static/media/blair-adult-no-smile.1d9af64e.jpg": "/birthday-card-blair/static/media/blair-adult-no-smile.1d9af64e.jpg",
+    "static/media/blair-child.0841cee0.jpg": "/birthday-card-blair/static/media/blair-child.0841cee0.jpg",
+    "static/media/blair-smile.581ea2ce.jpg": "/birthday-card-blair/static/media/blair-smile.581ea2ce.jpg",
+    "static/media/blair-teenager.4aa7f25c.jpg": "/birthday-card-blair/static/media/blair-teenager.4aa7f25c.jpg",
+    "static/media/blair.7f58be55.png": "/birthday-card-blair/static/media/blair.7f58be55.png",
+    "static/media/bulb_blue.b63b4858.png": "/birthday-card-blair/static/media/bulb_blue.b63b4858.png",
+    "static/media/bulb_green.1705cbb8.png": "/birthday-card-blair/static/media/bulb_green.1705cbb8.png",
+    "static/media/bulb_orange.154887c9.png": "/birthday-card-blair/static/media/bulb_orange.154887c9.png",
+    "static/media/bulb_pink.3576f4f4.png": "/birthday-card-blair/static/media/bulb_pink.3576f4f4.png",
+    "static/media/cake128.634b8a4e.png": "/birthday-card-blair/static/media/cake128.634b8a4e.png",
+    "static/media/hbd.c19a90b2.mp3": "/birthday-card-blair/static/media/hbd.c19a90b2.mp3",
+    "static/media/missing.a60dc8ef.jpg": "/birthday-card-blair/static/media/missing.a60dc8ef.jpg",
+    "static/media/old.51611226.png": "/birthday-card-blair/static/media/old.51611226.png",
+    "static/media/rabbit.61afd22f.png": "/birthday-card-blair/static/media/rabbit.61afd22f.png",
+    "static/media/sketch.9fe92902.png": "/birthday-card-blair/static/media/sketch.9fe92902.png",
+    "static/media/smile.af4c561a.jpg": "/birthday-card-blair/static/media/smile.af4c561a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7fa8cc.js",
+    "static/js/2.184cb949.chunk.js",
+    "static/css/main.ddc1d9e4.chunk.css",
+    "static/js/main.2578c8cb.chunk.js"
+  ]
+}
